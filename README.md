@@ -1,5 +1,5 @@
 # T31
-Tarea 31 - Ejercicio 8 - Boostrap
+Tarea 31 - Boostrap
 
 #### 1. Description
 ```
